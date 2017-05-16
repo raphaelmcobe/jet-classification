@@ -2,3 +2,4 @@ background_PU0_13TeV_MJ-65-95_PTJ-250-300_ext.txt filter=lfs diff=lfs merge=lfs 
 background_PU0_13TeV_MJ-65-95_PTJ-250-300.txt filter=lfs diff=lfs merge=lfs -text
 signal_PU0_13TeV_MJ-65-95_PTJ-250-300_ext.txt filter=lfs diff=lfs merge=lfs -text
 signal_PU0_13TeV_MJ-65-95_PTJ-250-300.txt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
